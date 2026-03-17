@@ -7,10 +7,9 @@ Currently in my final year. Interested in threat intelligence, adversary trackin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicon.dev/icons?i=rust,java,c,cpp,git,py,linux,docker,neovim&perline=3"
+    <img src="https://skillicons.dev/icons?i=rust,java,c,cpp,git,py,linux,docker,neovim&perline=3"
   </a>
 </p>
-
 
 ## 📁 Featured Projects 
 
