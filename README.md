@@ -7,7 +7,7 @@ Currently in my final year. Interested in threat intelligence, adversary trackin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,c,cpp,git,py,linux,docker,neovim&perline=3"
+    <img src="https://skillicons.dev/icons?i=rust,java,c,cpp,py,git,linux,docker,neovim&perline=3"
   </a>
 </p>
 
@@ -15,7 +15,7 @@ Currently in my final year. Interested in threat intelligence, adversary trackin
 
 - **b0cal/miel:** chameleon research honeypot which adapts to attackers expectations — component-based architecture development, low-level honeypot functioning
 - **qryptolocker:** post-quantum resistant file encryption system - post-quantum cryptography implementation, key verification and sharing architecture, client-server design
-- **passphrase_generator:** Simple passphrase generator based on the Diceware project - crypto-secure randomness generation
+- **eve:** Simple passphrase generator based on the Diceware project - crypto-secure randomness generation
 
 ## 📚 Currently Learning/Exploring
 - University coursework in memory & malware analysis and side-channel & falt attacks
