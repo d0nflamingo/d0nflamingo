@@ -3,14 +3,6 @@
 
 Currently in my final year. Interested in threat intelligence, adversary tracking, and offensive tooling — with a focus on understanding how and why attacks happen, not just that they do.
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,c,cpp,py,git,linux,docker,neovim&perline=3"
-  </a>
-</p>
-
 ## 📁 Featured Projects 
 
 - **b0cal/miel:** chameleon research honeypot which adapts to attackers expectations — component-based architecture development, low-level honeypot functioning
@@ -21,3 +13,11 @@ Currently in my final year. Interested in threat intelligence, adversary trackin
 - University coursework in memory & malware analysis and side-channel & falt attacks
 - Working through HTB / TryHackMe / rootMe
 - Preparing a seminar on APT29 and Operation Ghost
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,java,c,cpp,py,git,linux,docker,neovim&perline=3"
+  </a>
+</p>
